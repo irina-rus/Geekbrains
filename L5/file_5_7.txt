@@ -1,0 +1,4 @@
+firm_1   OOO   10000   5000
+firm_2   OAO   30000   35000
+firm_3   OOO   15000   5000
+firm_4   OAO   20000   21000
